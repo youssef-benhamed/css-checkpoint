@@ -1,0 +1,71 @@
+body{
+   background-color:  rgb(255, 217, 179);
+   border: solid 4px #8B4513;
+   margin: 20px;
+   padding: 15px;
+}
+.blue li{
+    display: inline-block;
+    padding-right: 20px;
+    
+}
+ul{
+    float: right;
+    margin-top: -150px;
+    border: solid 6px #8B4513;
+    
+}
+.blue li h1{
+    color:#8B4513;
+    
+}
+img{
+    margin-left: 300px;
+    border: dashed 8px #8B4513;
+}
+h1{
+    color: #CD853F;
+    
+}
+a{
+    text-decoration: none;
+}
+#home, #about, #contact{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.black{
+    text-decoration: underline #8B4513;
+    color: #8B4513;
+}
+.black2{
+    text-decoration: underline #8B4513;
+    color: #8B4513;
+}
+.black3{
+    text-decoration: underline #8B4513;
+    color: #8B4513;
+}
+.black4{
+    text-decoration: underline #8B4513;
+    color: #8B4513;
+}
+.black5{
+    text-decoration: underline #8B4513;
+    color: #8B4513;
+}
+.black6{
+    text-decoration: underline #8B4513;
+    color: #8B4513;
+}
+.black7{
+    text-decoration: underline #8B4513;
+    color: #8B4513;
+}
+.black8{
+    text-decoration: underline #8B4513;
+    color: #8B4513;
+}
+.black9{
+    text-decoration: underline #8B4513;
+    color: #8B4513;
+}
